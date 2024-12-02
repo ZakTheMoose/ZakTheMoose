@@ -20,7 +20,7 @@
 
 ### :woman_technologist: About Me :
 Hi, I am Zakary Sauve 👋.
-- :telescope: I am a Full Stack Blockchain Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada.
+- :telescope: I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada.
 
 - 🧑‍🎓 Bachelor of Computer Science
 
